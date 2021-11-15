@@ -10,7 +10,6 @@ node_modules
 
 
 # misc
-bs-config.json
 .DS_Store
 .env.local
 .env.development.local
