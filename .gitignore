@@ -1,0 +1,19 @@
+build
+node_modules
+
+
+# Directories
+/node_modules
+/build
+/.idea
+/.vs
+
+
+# misc
+bs-config.json
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.secret

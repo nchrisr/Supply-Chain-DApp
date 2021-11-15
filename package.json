@@ -1,0 +1,21 @@
+{
+  "name": "supply-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nchrisr",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.6.0",
+    "solhint": "^3.3.6",
+    "web3": "^1.6.0"
+  }
+}
